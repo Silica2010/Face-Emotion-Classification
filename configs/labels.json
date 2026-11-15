@@ -1,0 +1,15 @@
+{
+  "label2idx": {
+    "angry": 0,
+    "disgust": 1,
+    "fear": 2,
+    "happy": 3,
+    "sad": 4,
+    "surprise": 5,
+    "neutral": 6
+  },
+  "notes": {
+    "label_cn": ["愤怒", "厌恶", "恐惧", "开心", "悲伤", "惊讶", "中性"],
+    "dataset": "FER2013 / CK+ / JAFFE，图像统一转为 224×224 三通道"
+  }
+}

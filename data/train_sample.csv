@@ -1,0 +1,8 @@
+image_path,label
+images/fer0001.jpg,angry
+images/fer0002.jpg,happy
+images/fer0003.jpg,neutral
+images/fer0004.jpg,sad
+images/fer0005.jpg,surprise
+images/fer0006.jpg,fear
+images/fer0007.jpg,disgust
